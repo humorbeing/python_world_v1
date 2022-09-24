@@ -6,4 +6,5 @@
   - have model saves
 - a py code, that creates dataset
 - a py code that instruct how to use dataset
+- `_ignore-folder`
 - keep align
